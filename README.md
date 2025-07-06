@@ -594,6 +594,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Utilities
 
+* [DotPlus](https://github.com/nigdanil/dotplus) - Offline QR & barcode generator with GUI, CLI, CSV input, PNG/PDF export, and Docker support. Cross-platform, fast and built in Rust.
 * [1History](https://github.com/1History/1History) - Command line interface to backup Firefox/Chrome/Safari history to one SQLite file [![Build Status](https://github.com/1History/1History/actions/workflows/CI.yml/badge.svg)](https://github.com/1History/1History/actions/workflows/CI.yml)
 * [bloznelis/kbt](https://github.com/bloznelis/kbt) [[kbt](https://crates.io/crates/kbt)] - A simple TUI tool for keyboard testing.
 * [brycx/checkpwn](https://github.com/brycx/checkpwn) - A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
